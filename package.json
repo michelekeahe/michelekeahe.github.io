@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Michele Kauahi's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michelekeahe/michelekeahe.github.io.git"
+  },
+  "author": "Michele Kauahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michelekeahe/michelekeahe.github.io/issues"
+  },
+  "homepage": "https://github.com/michelekeahe/michelekeahe.github.io#readme"
+}
